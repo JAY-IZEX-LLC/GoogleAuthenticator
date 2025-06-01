@@ -18,7 +18,7 @@
             "homepage": "https://izex.org/",
             "role": "Developer"
         }
-    ]
+    ],
     "require": {
         "php": ">=8.2"
     },
